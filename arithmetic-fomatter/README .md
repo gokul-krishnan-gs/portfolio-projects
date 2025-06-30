@@ -72,15 +72,8 @@ arithmetic_arranger(["32 + 8", "1 - 3801", "9999 + 9999", "523 - 49"], True)
 ## 🎓 Built With
 
 - Python 🐍
----
-
-## 📜 License
-
-This project is open-source and free to use.
-
----
 
 ## 🙋‍♂️ Author
 
 **Gokul Krishnan**  
-LinkedIn: [linkedin.com/in/gokulkrishnangs](https://linkedin.com/in/gokulkrishnangs)
+LinkedIn: [linkedin.com/in/gokulkrishnangs](https://linkedin.com/in/gokul-krishnan-gs/)
